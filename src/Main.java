@@ -4,7 +4,7 @@ public class Main {
         System.out.println("Hello world!");
         //Jonathgt
             //Viktor 
-        //TEst
+        //TE
         //test
         //Oh shit
         //viktor igen

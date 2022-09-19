@@ -7,6 +7,6 @@ public class Main {
         //TE
         //test
         //Oh shit
-        //viktor igen
+        //viktor asdnas
     }
 }
